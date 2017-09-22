@@ -91,7 +91,7 @@ sub taskNew {
 	return undef;
 }
 
-# Получение писка задач
+# Получение cписка задач
 sub taskList {
 	my ($self) = @_;
 
